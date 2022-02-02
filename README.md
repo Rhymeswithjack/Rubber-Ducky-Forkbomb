@@ -1,5 +1,5 @@
 # Rubber-Ducky-Forkbomb
-a basic rubber ducky fork bomb payload.
+a basic rubber ducky fork bomb payload made for windows 10.
 
 i do not take responsibility for whatever this code is used for.
 
